@@ -17,6 +17,8 @@ The Bank Management System is a simple project designed to demonstrate basic ban
 - MySQL: Used for storing and managing account information.
 - Tkinter: Used for creating the graphical user interface.
 
+## Installation
+
 Clone or Download this repository 
 
 ```bash
