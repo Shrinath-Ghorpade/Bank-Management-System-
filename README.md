@@ -16,3 +16,9 @@ The Bank Management System is a simple project designed to demonstrate basic ban
 - Python: The core programming language used for developing the application.
 - MySQL: Used for storing and managing account information.
 - Tkinter: Used for creating the graphical user interface.
+
+Clone or Download this repository 
+
+```bash
+ https://github.com/Shrinath-Ghorpade/Bank-Management-System-.git
+```
